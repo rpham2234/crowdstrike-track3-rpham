@@ -1,4 +1,4 @@
-from classifier import InjectionClassifier
+from intentClassifier import InjectionClassifier
 import os
 
 # Initialize the classifier guardrail
