@@ -1,3 +1,7 @@
+Steps:
+1. markdownXMLRemover.py
+2. intentClassifier.py
+
 ### crowdstrike-track3-rpham
 # this is for SCU AI Collaborate X CrowdStrike Hackathon
 
