@@ -1,6 +1,6 @@
 import os
 from openai import OpenAI
-from sanitizer import PromptSanitizer
+from markdownXMLRemover import PromptSanitizer
 
 class InjectionClassifier:
     def __init__(self, api_key: str = None):
