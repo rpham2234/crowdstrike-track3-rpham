@@ -1,4 +1,4 @@
-Steps:
+Steps (all going through main.py):
 1. markdownXMLRemover.py
 2. intentClassifier.py
 
